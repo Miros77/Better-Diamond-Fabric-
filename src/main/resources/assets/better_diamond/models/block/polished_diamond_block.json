@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "better_diamond:block/polished_diamond_block"
+    }
+}
