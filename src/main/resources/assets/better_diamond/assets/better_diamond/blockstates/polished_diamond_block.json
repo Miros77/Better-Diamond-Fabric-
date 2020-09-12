@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "better_diamond:block/polished_diamond_block"
+    }
+  }
+}
