@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "better_diamond:polished_diamond"
+        }
+    },
+    "result": {
+        "item": "better_diamond:polished_diamond_block",
+        "count": 1
+    }
+}

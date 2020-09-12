@@ -1,8 +1,15 @@
 {
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:diamond"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "better_diamond:polished_diamond_block"
+        }
     },
-    "result": "better_diamond:polished_diamond",
-    "count": 1
+    "result": {
+        "item": "better_diamond:polished_diamond",
+        "count": 1
+    }
 }
